@@ -28,7 +28,7 @@ You should get -6.
 Next, insert write into the following the code needed to (25.5-20.2)/3:
 
 ```{r}
-
+(25.5-20.2)/3
 ```
 
 ## Practice Part c
